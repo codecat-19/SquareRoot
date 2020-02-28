@@ -3,7 +3,7 @@ import java.util.*;
 public class KthSmallLarge {
 
     public static void main(String[] args){
-        Integer arr[] = new Integer[] {5, 12, 17, 7, 30, 3, 100};
+        Integer arr[] = new Integer[] {7, 12, 29, 55, 30, 3, 100};
         int k = 2;
 
         System.out.println(Arrays.toString(arr));
